@@ -1,3 +1,4 @@
+
 # Gepeto - Chat Bot usando OpenAI
 
 Gepeto es un chat bot interactivo que utiliza OpenAI para responder a tus preguntas. Este repositorio contiene un script que instala todas las dependencias necesarias y configura el chat bot para que puedas usarlo fácilmente.
@@ -30,11 +31,14 @@ Sigue estos pasos para instalar y utilizar Gepeto en tu sistema:
 
 ## Requisitos
 
-> Python 3
-> [API key de OpenAI.] (https://elephas.app/blog/how-to-create-openai-api-keys-cl5c4f21d281431po7k8fgyol0)
->  Acceso a internet para instalar dependencias
+ >- Python 3
+ > - [API key de OpenAI.](https://elephas.app/blog/how-to-create-openai-api-keys-cl5c4f21d281431po7k8fgyol0)
+  > - Acceso a internet para instalar dependencias
 
 ## Notas
 
 Si ya has ejecutado el instalador anteriormente, el archivo gepeto.py no estará en el directorio. El instalador verificará su presencia y no repetirá la instalación.
+
+
+
 
